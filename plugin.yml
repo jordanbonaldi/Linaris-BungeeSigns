@@ -1,0 +1,8 @@
+name: BungeeSigns
+author: Neferett
+version: 1.0.1
+depend: [CustomEntitiesAPI, HolographicDisplays]
+main: net.neferett.linaris.signs.BungeeSignsPlugin
+commands:
+  bungeesigns:
+  bungeenpc:
